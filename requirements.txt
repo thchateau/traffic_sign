@@ -1,0 +1,17 @@
+# Core dependencies
+numpy>=1.24.0
+pillow>=10.0.0
+requests>=2.31.0
+
+# Florence - Generative AI for image description
+transformers>=4.35.0
+torch>=2.0.0
+
+# OpenCLIP - Image-text similarity
+open_clip_torch>=2.20.0
+
+# Mapillary API
+vt2geojson>=0.2.1
+
+# Optional: for advanced features
+python-dotenv>=1.0.0
